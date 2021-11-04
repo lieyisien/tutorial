@@ -1,2 +1,2 @@
-2
-1 
+def main():
+    pass
